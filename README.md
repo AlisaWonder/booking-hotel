@@ -6,7 +6,7 @@ SPA приложение с клиент-серверной архитектур
 
 Frontend на библиотеке React
 
-UX приложения: https://www.figma.com/file/w18Runwgq9v5t35L5OVBhR/%D0%91%D1%80%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D0%B5%D0%BB%D0%B5%D0%B9?node-id=0%3A1 [https://www.figma.com/file/w18Runwgq9v5t35L5OVBhR/%D0%91%D1%80%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D0%B5%D0%BB%D0%B5%D0%B9?node-id=0%3A1]
+[UX приложения в Figma](https://www.figma.com/file/w18Runwgq9v5t35L5OVBhR/%D0%91%D1%80%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D0%B5%D0%BB%D0%B5%D0%B9?node-id=0%3A1)
 
 ## Реализация:
 
